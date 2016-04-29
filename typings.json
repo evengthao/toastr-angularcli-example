@@ -7,6 +7,8 @@
     "selenium-webdriver": "github:DefinitelyTyped/DefinitelyTyped/selenium-webdriver/selenium-webdriver.d.ts#a83677ed13add14c2ab06c7325d182d0ba2784ea"
   },
   "ambientDependencies": {
+    "angular": "registry:dt/angular#1.5.0+20160412133217",
+    "angular-toastr": "registry:dt/angular-toastr#1.6.0+20160330162121",
     "es6-shim": "github:DefinitelyTyped/DefinitelyTyped/es6-shim/es6-shim.d.ts#6697d6f7dadbf5773cb40ecda35a76027e0783b2",
     "jquery": "registry:dt/jquery#1.10.0+20160417213236",
     "toastr": "registry:dt/toastr#2.0.1+20160316155526"
